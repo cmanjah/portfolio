@@ -1,25 +1,35 @@
 {
   "stats": {
-    "repoCount": 16,
+    "repoCount": 17,
     "starsTotal": 7,
     "forksTotal": 1,
-    "lastUpdated": "2026-02-06T04:16:36.829Z"
+    "lastUpdated": "2026-03-09T03:05:47.403Z"
   },
   "repos": [
     {
+      "name": "multimodal-ai-landscape",
+      "full_name": "cmanjah/multimodal-ai-landscape",
+      "html_url": "https://github.com/cmanjah/multimodal-ai-landscape",
+      "description": "Data and analyses for multimodal AI research trend",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-03-03T10:04:59Z"
+    },
+    {
       "name": "portfolio",
-      "full_name": "Cmanjah/portfolio",
-      "html_url": "https://github.com/Cmanjah/portfolio",
-      "description": "Charles Anjah's  Portfolio",
+      "full_name": "cmanjah/portfolio",
+      "html_url": "https://github.com/cmanjah/portfolio",
+      "description": "I design and deliver production-grade AI systems and benchmarking infrastructure, with a focus on multimodal evaluation, retrieval-augmented generation, and responsible deployment. My work spans healthcare, open research, and cross-domain AI, combining rigorous engineering with human expert baselines to ensure real-world validity and impact.",
       "language": "HTML",
       "stargazers_count": 1,
       "forks_count": 0,
-      "updated_at": "2026-02-05T17:18:45Z"
+      "updated_at": "2026-02-10T11:14:39Z"
     },
     {
       "name": "pykale",
-      "full_name": "Cmanjah/pykale",
-      "html_url": "https://github.com/Cmanjah/pykale",
+      "full_name": "cmanjah/pykale",
+      "html_url": "https://github.com/cmanjah/pykale",
       "description": "Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem. ⭐ Star to support our work!",
       "language": null,
       "stargazers_count": 0,
@@ -28,8 +38,8 @@
     },
     {
       "name": "skills-introduction-to-github",
-      "full_name": "Cmanjah/skills-introduction-to-github",
-      "html_url": "https://github.com/Cmanjah/skills-introduction-to-github",
+      "full_name": "cmanjah/skills-introduction-to-github",
+      "html_url": "https://github.com/cmanjah/skills-introduction-to-github",
       "description": "My clone repository",
       "language": null,
       "stargazers_count": 0,
@@ -38,8 +48,8 @@
     },
     {
       "name": "NeuroSync_Player",
-      "full_name": "Cmanjah/NeuroSync_Player",
-      "html_url": "https://github.com/Cmanjah/NeuroSync_Player",
+      "full_name": "cmanjah/NeuroSync_Player",
+      "html_url": "https://github.com/cmanjah/NeuroSync_Player",
       "description": "The NeuroSync Player allows for real-time streaming of facial blendshapes into Unreal Engine 5 using LiveLink - enabling facial animation from audio input.",
       "language": null,
       "stargazers_count": 0,
@@ -48,8 +58,8 @@
     },
     {
       "name": "CO-Emissions-Prediction",
-      "full_name": "Cmanjah/CO-Emissions-Prediction",
-      "html_url": "https://github.com/Cmanjah/CO-Emissions-Prediction",
+      "full_name": "cmanjah/CO-Emissions-Prediction",
+      "html_url": "https://github.com/cmanjah/CO-Emissions-Prediction",
       "description": null,
       "language": null,
       "stargazers_count": 0,
@@ -58,8 +68,8 @@
     },
     {
       "name": "embedchain",
-      "full_name": "Cmanjah/embedchain",
-      "html_url": "https://github.com/Cmanjah/embedchain",
+      "full_name": "cmanjah/embedchain",
+      "html_url": "https://github.com/cmanjah/embedchain",
       "description": "Personalising LLM Responses",
       "language": null,
       "stargazers_count": 0,
@@ -68,8 +78,8 @@
     },
     {
       "name": "web-dev",
-      "full_name": "Cmanjah/web-dev",
-      "html_url": "https://github.com/Cmanjah/web-dev",
+      "full_name": "cmanjah/web-dev",
+      "html_url": "https://github.com/cmanjah/web-dev",
       "description": "All web design, development, and training projects",
       "language": "PHP",
       "stargazers_count": 1,
@@ -78,8 +88,8 @@
     },
     {
       "name": "education-centre",
-      "full_name": "Cmanjah/education-centre",
-      "html_url": "https://github.com/Cmanjah/education-centre",
+      "full_name": "cmanjah/education-centre",
+      "html_url": "https://github.com/cmanjah/education-centre",
       "description": "Education centre is an online learning hub with modern innovative features that enhances great learning outcome",
       "language": null,
       "stargazers_count": 0,
@@ -88,8 +98,8 @@
     },
     {
       "name": "TIAGoGPT--Robot-assisted-interventions-",
-      "full_name": "Cmanjah/TIAGoGPT--Robot-assisted-interventions-",
-      "html_url": "https://github.com/Cmanjah/TIAGoGPT--Robot-assisted-interventions-",
+      "full_name": "cmanjah/TIAGoGPT--Robot-assisted-interventions-",
+      "html_url": "https://github.com/cmanjah/TIAGoGPT--Robot-assisted-interventions-",
       "description": "This robotic interactive system, TIAGoGPT is an MSc research project on \"Exploring the Potentials of LLMs in TIAGo Robot-Assisted Interventions to Support Children with Social Skill Difficulties\". The project implements cutting-edge technologies to revolutionise the field of child support. We employed state-of-the-art large language models in robot",
       "language": "Python",
       "stargazers_count": 1,
@@ -98,8 +108,8 @@
     },
     {
       "name": "carbon-emission",
-      "full_name": "Cmanjah/carbon-emission",
-      "html_url": "https://github.com/Cmanjah/carbon-emission",
+      "full_name": "cmanjah/carbon-emission",
+      "html_url": "https://github.com/cmanjah/carbon-emission",
       "description": null,
       "language": "Jupyter Notebook",
       "stargazers_count": 0,
@@ -108,8 +118,8 @@
     },
     {
       "name": "Optimising-FED-with-Deep-Learning",
-      "full_name": "Cmanjah/Optimising-FED-with-Deep-Learning",
-      "html_url": "https://github.com/Cmanjah/Optimising-FED-with-Deep-Learning",
+      "full_name": "cmanjah/Optimising-FED-with-Deep-Learning",
+      "html_url": "https://github.com/cmanjah/Optimising-FED-with-Deep-Learning",
       "description": "Optimising Facial Emotion Detection for Safe Driving in Semi-Autonomous Vehicles Using Deep Learning",
       "language": "Jupyter Notebook",
       "stargazers_count": 1,
@@ -118,8 +128,8 @@
     },
     {
       "name": "Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
-      "full_name": "Cmanjah/Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
-      "html_url": "https://github.com/Cmanjah/Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
+      "full_name": "cmanjah/Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
+      "html_url": "https://github.com/cmanjah/Keratoconus-Eye-Disease-Detection-using-Convolution-Neural-Network---CNN",
       "description": "Keratoconus is a non-inflammatory eye condition in which the normally round dome-shaped clear window of the eye (cornea) progressively thins causing a cone-like bulge to develop. ",
       "language": "Jupyter Notebook",
       "stargazers_count": 2,
@@ -128,8 +138,8 @@
     },
     {
       "name": "keratoconus-detection",
-      "full_name": "Cmanjah/keratoconus-detection",
-      "html_url": "https://github.com/Cmanjah/keratoconus-detection",
+      "full_name": "cmanjah/keratoconus-detection",
+      "html_url": "https://github.com/cmanjah/keratoconus-detection",
       "description": "\"Keratoconus is a progressive disease of the cornea which can lead to blindness as irregular astigmatism increases.\" Dataset available on - https://www.kaggle.com/datasets/elmehdi12/keratoconus-detection",
       "language": "Jupyter Notebook",
       "stargazers_count": 1,
@@ -138,8 +148,8 @@
     },
     {
       "name": "Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
-      "full_name": "Cmanjah/Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
-      "html_url": "https://github.com/Cmanjah/Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
+      "full_name": "cmanjah/Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
+      "html_url": "https://github.com/cmanjah/Human-Activity-Recognition-with-Postural-Transition-HARPT-Using-Smartphone-Sensors",
       "description": null,
       "language": null,
       "stargazers_count": 0,
@@ -148,8 +158,8 @@
     },
     {
       "name": "datasets",
-      "full_name": "Cmanjah/datasets",
-      "html_url": "https://github.com/Cmanjah/datasets",
+      "full_name": "cmanjah/datasets",
+      "html_url": "https://github.com/cmanjah/datasets",
       "description": "Dataset Collection",
       "language": "Jupyter Notebook",
       "stargazers_count": 0,
@@ -158,8 +168,8 @@
     },
     {
       "name": "andriod",
-      "full_name": "Cmanjah/andriod",
-      "html_url": "https://github.com/Cmanjah/andriod",
+      "full_name": "cmanjah/andriod",
+      "html_url": "https://github.com/cmanjah/andriod",
       "description": null,
       "language": null,
       "stargazers_count": 0,
